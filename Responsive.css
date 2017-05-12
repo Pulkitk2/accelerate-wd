@@ -1,0 +1,8 @@
+/* A simple code used to make a site fully responsive. */
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
